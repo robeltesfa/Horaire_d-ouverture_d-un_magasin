@@ -7,7 +7,7 @@
     <title>Horaires d'ouverture du magasin</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link <link href="style.css" rel="stylesheet">
-</head>head>
+</head>
 
 <body>
     <div class="container">
