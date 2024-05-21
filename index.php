@@ -12,11 +12,10 @@
 <body>
 
   <header> 
-   <h1 class="mt-5">Horaire d'ouverture</h1>
+   <h1 class="mt-5">Horaire d'Ouverture</h1>
   </header>
-  
+
   <div class="container">
-        <h1>Horaires d'ouverture du magasin</h1>
         <div id="status"></div>
         <div id="next-opening"></div>
   </div>
