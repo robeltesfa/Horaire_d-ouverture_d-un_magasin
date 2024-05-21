@@ -8,7 +8,7 @@ function updateStoreStatus() {
   const statusElement = document.getElementById("status");
   const nextOpeningElement = document.getElementById("next-opening");
   const now = new Date();
-  const currentDateTime = now.toISOString().slice(0, 60000).replace("T", " ");
+  const currentDateTime = now.toISOString().slice(0, 20).replace("T", " ");
 
   fetch("class.php?currentDateTime=" + currentDateTime)
     .then((response) => response.json())
