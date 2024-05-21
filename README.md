@@ -1,3 +1,4 @@
 # Horaire_d-ouverture_d-un_magasin
 
-## En utlisant POO de PHP avec HTML5
+## En utlisant HTML5, CSS3, js et  PHP POO 
+
