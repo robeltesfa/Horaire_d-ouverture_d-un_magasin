@@ -1,7 +1,7 @@
 //*******JavaScript*********
 window.addEventListener("DOMContentLoaded", (event) => {
   updateStoreStatus();
-  setInterval(updateStoreStatus, 1); // En minutes
+  setInterval(updateStoreStatus, 60000); // En minutes
 });
 
 function updateStoreStatus() {
